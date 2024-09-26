@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kundancodelab&label=Profile%20views&color=0e75b6&style=flat" alt="kundancodelab" /> </p>
 
-- 🔭 I’m currently pursuing MCA and working ios project :- [BooKHaven](https://github.com/kundancodelab/BookHaven)
+- 🔭 I’m currently pursuing MCA and working on ios project :- [BooKHaven](https://github.com/kundancodelab/BookHaven)
 
 - 🌱 I’m currently learning **swiftui**
 
