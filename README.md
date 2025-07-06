@@ -1,11 +1,4 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a3bc47b9-f1a5-4de2-bd23-049fa9708255" 
-       alt="Kundan Kumar" 
-       width="150" 
-       height="150" 
-       style="border-radius: 50%;" />
-</p>
-
+![Black Minimalist Corporate Business Personal Profile LinkedIn Banner](https://github.com/user-attachments/assets/f026feda-a9ea-4319-a33f-f5178939a6a3)
 
 
 
