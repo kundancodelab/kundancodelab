@@ -1,4 +1,5 @@
-![logo](https://github.com/kundancodelab/kundancodelab/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+![logo] ![WhatsApp Image 2025-03-13 at 11 06 15 AM](https://github.com/user-attachments/assets/a3bc47b9-f1a5-4de2-bd23-049fa9708255)
+
 
 
 <h1 align="center">Hi 👋, I'm Kundan Kumar</h1>
