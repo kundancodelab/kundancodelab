@@ -1,4 +1,11 @@
-![logo] ![WhatsApp Image 2025-03-13 at 11 06 15 AM](https://github.com/user-attachments/assets/a3bc47b9-f1a5-4de2-bd23-049fa9708255)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a3bc47b9-f1a5-4de2-bd23-049fa9708255" 
+       alt="Kundan Kumar" 
+       width="150" 
+       height="150" 
+       style="border-radius: 50%;" />
+</p>
+
 
 
 
